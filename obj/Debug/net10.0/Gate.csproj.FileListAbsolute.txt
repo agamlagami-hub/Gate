@@ -1,0 +1,15 @@
+/home/agamlagami/Desktop/Programming/C#/Gate/bin/Debug/net10.0/Gate
+/home/agamlagami/Desktop/Programming/C#/Gate/bin/Debug/net10.0/Gate.deps.json
+/home/agamlagami/Desktop/Programming/C#/Gate/bin/Debug/net10.0/Gate.runtimeconfig.json
+/home/agamlagami/Desktop/Programming/C#/Gate/bin/Debug/net10.0/Gate.dll
+/home/agamlagami/Desktop/Programming/C#/Gate/bin/Debug/net10.0/Gate.pdb
+/home/agamlagami/Desktop/Programming/C#/Gate/obj/Debug/net10.0/Gate.GeneratedMSBuildEditorConfig.editorconfig
+/home/agamlagami/Desktop/Programming/C#/Gate/obj/Debug/net10.0/Gate.AssemblyInfoInputs.cache
+/home/agamlagami/Desktop/Programming/C#/Gate/obj/Debug/net10.0/Gate.AssemblyInfo.cs
+/home/agamlagami/Desktop/Programming/C#/Gate/obj/Debug/net10.0/Gate.csproj.CoreCompileInputs.cache
+/home/agamlagami/Desktop/Programming/C#/Gate/obj/Debug/net10.0/Gate.sourcelink.json
+/home/agamlagami/Desktop/Programming/C#/Gate/obj/Debug/net10.0/Gate.dll
+/home/agamlagami/Desktop/Programming/C#/Gate/obj/Debug/net10.0/refint/Gate.dll
+/home/agamlagami/Desktop/Programming/C#/Gate/obj/Debug/net10.0/Gate.pdb
+/home/agamlagami/Desktop/Programming/C#/Gate/obj/Debug/net10.0/Gate.genruntimeconfig.cache
+/home/agamlagami/Desktop/Programming/C#/Gate/obj/Debug/net10.0/ref/Gate.dll
