@@ -83,6 +83,11 @@
             Console.WriteLine("אין הנחה");
         }
 
-        
+        double x = 0.1; //שלב 5 סעיף 1
+        double y = 0.2;
+
+        Console.WriteLine(x + y == 0.3);
+
+        Console.WriteLine(Math.Abs(0.3 - (x + y)) < 0.0001); //שלב 5 סעיף 3
     }
 }
